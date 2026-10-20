@@ -1,0 +1,38 @@
+{
+ "batch": "PixelLab-Zombies-2026-10-19",
+ "source": "PixelLab MCP / mode=pixminimax",
+ "generated": "2026-10-19",
+ "direction": "east",
+ "characters": [
+  {
+   "name": "Zombie02-Normal",
+   "id": "102b6a71-f8d2-4ec4-933c-f17095b01ca9",
+   "animations": 10
+  },
+  {
+   "name": "Zombie03-Normal",
+   "id": "0c01feac-1eda-40aa-8564-e726593ea602",
+   "animations": 10
+  },
+  {
+   "name": "Zombie04-Normal",
+   "id": "2ddf1ba9-8a95-4821-971b-97c2ceb05284",
+   "animations": 10
+  },
+  {
+   "name": "Zombie10-Normal",
+   "id": "6ca89e10-2f4a-4082-9cb6-d30d6ff223aa",
+   "animations": 10
+  },
+  {
+   "name": "Zombie-normal06",
+   "id": "f8d7252e-2b88-4cad-bc27-5e8f9bc79a84",
+   "animations": 10
+  }
+ ],
+ "totals": {
+  "characters": 5,
+  "animations": 50,
+  "frames": 713
+ }
+}

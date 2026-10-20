@@ -1,0 +1,13 @@
+# Python 暫存
+__pycache__/
+*.py[cod]
+
+# 系統檔
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 暫存與備份
+*.tmp
+*.bak
+*~

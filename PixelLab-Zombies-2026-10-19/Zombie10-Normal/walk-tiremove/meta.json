@@ -1,0 +1,21 @@
+{
+ "character": "Zombie10-Normal",
+ "animation": "Walk-TireMove",
+ "slug": "walk-tiremove",
+ "group": "combat-walk",
+ "direction": "east",
+ "frame_count": 8,
+ "cell": [
+  88,
+  88
+ ],
+ "sheet": "sheet.png",
+ "sheet_size": [
+  704,
+  88
+ ],
+ "sheet_layout": "horizontal-strip",
+ "frames_dir": "frames",
+ "source_tool": "PixelLab animate_character",
+ "source_mode": "pixminimax"
+}

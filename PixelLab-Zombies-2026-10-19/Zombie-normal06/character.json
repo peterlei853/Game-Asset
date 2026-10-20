@@ -1,0 +1,118 @@
+{
+ "name": "Zombie-normal06",
+ "source_name": "Zombie-normal06",
+ "pixellab_character_id": "f8d7252e-2b88-4cad-bc27-5e8f9bc79a84",
+ "direction": "east",
+ "animations": [
+  {
+   "name": "Die-critical hit",
+   "slug": "die-critical-hit",
+   "group": "die",
+   "frames": 27,
+   "cell": [
+    84,
+    84
+   ],
+   "path": "Zombie-normal06/die-critical-hit"
+  },
+  {
+   "name": "Die-disappear",
+   "slug": "die-disappear",
+   "group": "die",
+   "frames": 20,
+   "cell": [
+    84,
+    84
+   ],
+   "path": "Zombie-normal06/die-disappear"
+  },
+  {
+   "name": "Die-deathwalk",
+   "slug": "die-deathwalk",
+   "group": "die",
+   "frames": 29,
+   "cell": [
+    84,
+    84
+   ],
+   "path": "Zombie-normal06/die-deathwalk"
+  },
+  {
+   "name": "Die-normal01",
+   "slug": "die-normal01",
+   "group": "die",
+   "frames": 7,
+   "cell": [
+    84,
+    84
+   ],
+   "path": "Zombie-normal06/die-normal01"
+  },
+  {
+   "name": "Die-normal02",
+   "slug": "die-normal02",
+   "group": "die",
+   "frames": 7,
+   "cell": [
+    84,
+    84
+   ],
+   "path": "Zombie-normal06/die-normal02"
+  },
+  {
+   "name": "hit01-normal",
+   "slug": "hit01-normal",
+   "group": "combat-walk",
+   "frames": 16,
+   "cell": [
+    84,
+    84
+   ],
+   "path": "Zombie-normal06/hit01-normal"
+  },
+  {
+   "name": "hit02-normal",
+   "slug": "hit02-normal",
+   "group": "combat-walk",
+   "frames": 16,
+   "cell": [
+    84,
+    84
+   ],
+   "path": "Zombie-normal06/hit02-normal"
+  },
+  {
+   "name": "Hurt-normal",
+   "slug": "hurt-normal",
+   "group": "combat-walk",
+   "frames": 4,
+   "cell": [
+    84,
+    84
+   ],
+   "path": "Zombie-normal06/hurt-normal"
+  },
+  {
+   "name": "Walk-normal",
+   "slug": "walk-normal",
+   "group": "combat-walk",
+   "frames": 8,
+   "cell": [
+    84,
+    84
+   ],
+   "path": "Zombie-normal06/walk-normal"
+  },
+  {
+   "name": "Walk-TireMove",
+   "slug": "walk-tiremove",
+   "group": "combat-walk",
+   "frames": 8,
+   "cell": [
+    84,
+    84
+   ],
+   "path": "Zombie-normal06/walk-tiremove"
+  }
+ ]
+}

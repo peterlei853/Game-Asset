@@ -1,0 +1,21 @@
+{
+ "character": "Zombie03-Normal",
+ "animation": "Walk-normal",
+ "slug": "walk-normal",
+ "group": "combat-walk",
+ "direction": "east",
+ "frame_count": 8,
+ "cell": [
+  84,
+  84
+ ],
+ "sheet": "sheet.png",
+ "sheet_size": [
+  672,
+  84
+ ],
+ "sheet_layout": "horizontal-strip",
+ "frames_dir": "frames",
+ "source_tool": "PixelLab animate_character",
+ "source_mode": "pixminimax"
+}

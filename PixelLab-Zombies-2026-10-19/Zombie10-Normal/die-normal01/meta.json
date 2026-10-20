@@ -1,0 +1,36 @@
+{
+ "character": "Zombie10-Normal",
+ "animation": "Die-normal01",
+ "slug": "die-normal01",
+ "group": "die",
+ "direction": "east",
+ "frame_count": 5,
+ "cell": [
+  88,
+  88
+ ],
+ "sheet": "sheet.png",
+ "sheet_size": [
+  440,
+  88
+ ],
+ "sheet_layout": "horizontal-strip",
+ "frames_dir": "frames",
+ "source_tool": "PixelLab animate_character",
+ "source_mode": "pixminimax",
+ "original_frames": 8,
+ "dropped_leading": 3,
+ "cut_reason": "static idle lead-in",
+ "dropped_indices": [
+  0,
+  1,
+  2
+ ],
+ "frame_index_map": [
+  3,
+  4,
+  5,
+  6,
+  7
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "character": "Zombie10-Normal",
+ "animation": "Hurt-normal",
+ "slug": "hurt-normal",
+ "group": "combat-walk",
+ "direction": "east",
+ "frame_count": 4,
+ "cell": [
+  88,
+  88
+ ],
+ "sheet": "sheet.png",
+ "sheet_size": [
+  352,
+  88
+ ],
+ "sheet_layout": "horizontal-strip",
+ "frames_dir": "frames",
+ "source_tool": "PixelLab animate_character",
+ "source_mode": "pixminimax"
+}

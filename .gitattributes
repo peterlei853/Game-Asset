@@ -1,0 +1,10 @@
+# 素材庫：一律保留原始位元組，不做換行符轉換
+# （避免 .json / .atlas / .txt 被 autocrlf 改成 CRLF）
+* -text
+
+# 影像與 Spine 二進位
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.spine binary
+*.atlas binary
